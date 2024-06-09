@@ -16,6 +16,11 @@ Here is a result in the “identify tablet strip” page, where an uploaded/scan
 
 
 
-Here we can see a case where a tablet strip is found matching.The matched tablet strip along with the similarity score is displayed as the output and also outputed as audio.
+Here we can see a case where a tablet strip is found matching.The matched tablet strip along with the similarity score is displayed as the output and also output as audio.
+
+
+
+
+
 ![image](https://github.com/soni-pasupuleti/MEDICINE-STRIP-IDENTIFICATION/assets/131327903/1892bb07-270e-418f-bbd3-89aea13c01e9)
 
